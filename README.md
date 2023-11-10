@@ -6,7 +6,7 @@ Repository for learning Julia and for fun.
 
 <!-- [![Docs-stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://ranocha.github.io/2023-RSE_in_Julia/stable) -->
 
-[![Docs-dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://hannesbahannes.github.io/My_RSE_in-Julia.jl/dev)
+[![Docs-dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://hannesbahannes.github.io/My_RSE_in_Julia.jl/dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
 
 ## This is another header
